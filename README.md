@@ -107,7 +107,8 @@ Strictly **not available for free** or public distribution.
 ### 📞 Contact & Support:
 
 For access, support, or partnership queries:
-📩 DM on TradingView: [khushaljain023](https://in.tradingview.com/u/khushaljain023/)
+
+📩 TradingView: [khushaljain023](https://in.tradingview.com/u/khushaljain023/)
 📧 Email: [khushaljain023@gmail.com](mailto:khushaljain023@gmail.com)  
 📱 Instagram: [@callmejainsahab_](https://www.instagram.com/callmejainsahab_)
 
