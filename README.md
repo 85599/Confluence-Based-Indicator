@@ -2,8 +2,7 @@
 <p align="center">
   <img src="original-c93f0d6dab3179cf6ee225220fe3a592.gif" alt="Trading GIF" width="200"/>
 </p>
-## _This is a **premium TradingView indicator** developed for serious traders who demand precision, speed, and versatility_
-It combines a powerful set of tools and strategies into one clean, customizable bundle
+## This is a **premium TradingView indicator** developed for serious traders who demand precision, speed, and versatility. It combines a powerful set of tools and strategies into one clean, customizable bundle
 
 ![N|Solid](https://avatars.githubusercontent.com/u/7644688?s=200&v=4/)
 
