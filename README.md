@@ -104,13 +104,13 @@ Strictly **not available for free** or public distribution.
 - **Data Source**: Indian Market, World Market, Crypto and many more.
 - **Integrations**: Python (CCXT), Broker Webhooks (Zerodha, Upstox)
 
-### 📞 Contact & Support:
+### 📞 Contact & Support
 
-For access, support, or partnership queries:
+For access, support, or partnership queries, feel free to reach out via:
 
-📩 TradingView: [khushaljain023](https://in.tradingview.com/u/khushaljain023/)
-📧 Email: [khushaljain023@gmail.com](mailto:khushaljain023@gmail.com)  
-📱 Instagram: [@callmejainsahab_](https://www.instagram.com/callmejainsahab_)
+- 🟣 **TradingView**: [khushaljain023](https://in.tradingview.com/u/khushaljain023/)
+- 🔵 **Email**: [khushaljain023@gmail.com](mailto:khushaljain023@gmail.com)
+- 🟣 **Instagram**: [@callmejainsahab_](https://www.instagram.com/callmejainsahab_)
 
 ```sh
 > 🔐 Trade smarter. Not harder.
