@@ -1,6 +1,6 @@
 # 📊 KHUSHAL JAIN – Confluence-Based Indicator
 <p align="center">
-  <img src="original-c93f0d6dab3179cf6ee225220fe3a592.gif" alt="Trading GIF" width="300"/>
+  <img src="original-c93f0d6dab3179cf6ee225220fe3a592.gif" alt="Trading GIF" width="200"/>
 </p>
 ## _This is a paid **premium TradingView indicator** developed for serious traders who demand precision, speed, and versatility_
 _It combines a powerful set of tools and strategies into one clean, customizable bundle_
