@@ -1,9 +1,14 @@
 # 📊 KHUSHAL JAIN – Confluence-Based Indicator
+
 <p align="center">
   <img src="original-c93f0d6dab3179cf6ee225220fe3a592.gif" alt="Trading GIF" width="200"/>
 </p>
 
-This is a ** Paid Premium TradingView indicator** developed for serious traders who demand precision, speed, and versatility. It combines a powerful set of tools and strategies into one clean, customizable bundle.
+## ⚡ About
+
+This is a **Paid Premium TradingView indicator** developed for serious traders who demand **precision**, **speed**, and **versatility**.  
+It combines a powerful set of tools and strategies into one clean, customizable bundle – designed to elevate your trading experience on TradingView.
+
 
 ![N|Solid](https://avatars.githubusercontent.com/u/7644688?s=200&v=4/)
 
@@ -71,17 +76,19 @@ It works for **Intraday**, **Swing**, and **Positional Trading**.
 - If the zone holds, consider it a **long-term buy zone**.
 - **Confluence with Order Block** increases reliability.
 
-## 📷 Chart Example Breakdown
-
-- **Buy Entry**: Near 25000 with confluence at support zone.
-- **Sell Entry**: Near 25359 near resistance zone with bearish rejection.
-- **Reversal Zones**: Clearly marked with breakout/breakdown and pivot levels.
 
 ### 📈 Best For:
 - **Intraday traders**
 - **Swing traders**
 - **Futures & Options traders**
 - **Those who understand Camarilla Strategy**
+
+## 💎 Premium Benefits
+
+- Access to exclusive indicators & tools  
+- Priority customer support  
+- Regular updates & strategy improvements  
+- One-time or subscription-based pricing  
 
 ### 💸 This is a Paid Indicator
 
@@ -99,7 +106,8 @@ Strictly **not available for free** or public distribution.
 
 ### 📞 Contact & Support:
 
-For access, support, or partnership queries:  
+For access, support, or partnership queries:
+📩 DM on TradingView: [khushaljain023](https://in.tradingview.com/u/khushaljain023/)
 📧 Email: [khushaljain023@gmail.com](mailto:khushaljain023@gmail.com)  
 📱 Instagram: [@callmejainsahab_](https://www.instagram.com/callmejainsahab_)
 
