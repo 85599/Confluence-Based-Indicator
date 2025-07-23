@@ -16,7 +16,7 @@ This tool is **not for beginners** or people looking for simple **Buy/Sell signa
 ![Alt](BANKNIFTY_2025-07-23_14-18-28.png "screenshoot")
 
 **Nifty50 Options**
-![Alt](NIFTY250724C25100_2025-07-23_14-25-18.png"screenshoot")
+![Alt](NIFTY250724C25100_2025-07-23_14-25-18.png "screenshoot")
 
 ## 🧠 Concept
 
