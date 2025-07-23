@@ -8,7 +8,11 @@ _It combines a powerful set of tools and strategies into one clean, customizable
 
 This tool is **not for beginners** or people looking for simple **Buy/Sell signals**. It's designed for traders who understand **Smart Money Concepts (SMC)**, **Support & Resistance**, **Price Action**, **Camarilla**, **Fibonacci pivots**, **3 EMA's & SMA**, **VWAP**, **Volume based Support resistance** (for futures and Stocks), **RSI**, **Golden cross**, **Indecisive candle**, **Major Price action bars**, **Previous day High & low, Swing High & low**. All these in One Bundle This strategy utilizes confluence for identifying high-probability trades.
 
-![Nifty chart](./https://github.com/85599/Confluence-Based-Indicator/blob/main/NIFTY_2025-07-23_12-41-33.png])
+## Screenshots
+
+| Check for Updates   | 
+| ------------- |
+| <img src="[https://github.com/85599/Stock_Screen/blob/master/Screenshot%20(172).png](https://github.com/85599/Confluence-Based-Indicator/blob/main/NIFTY_2025-07-23_12-41-33.png)"> 
 
 
 ## 🧠 Concept
