@@ -12,7 +12,7 @@ This tool is **not for beginners** or people looking for simple **Buy/Sell signa
 
 | Check for Updates   | 
 | ------------- |
-| <img src="[(https://github.com/85599/Confluence-Based-Indicator/blob/main/NIFTY_2025-07-23_12-41-33.png]"> 
+| <img src="[NIFTY_2025-07-23_12-41-33.png]"> 
 
 
 ## 🧠 Concept
