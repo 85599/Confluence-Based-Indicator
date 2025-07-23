@@ -1,8 +1,8 @@
 # 📊 KHUSHAL JAIN – Confluence-Based Indicator
 ## _This is a **premium TradingView indicator** developed for serious traders who demand precision, speed, and versatility_
-It combines a powerful set of tools and strategies into one clean, customizable bundle_
+_It combines a powerful set of tools and strategies into one clean, customizable bundle_
 
-[![N|Solid](https://avatars.githubusercontent.com/u/7644688?s=200&v=4/)
+![N|Solid](https://avatars.githubusercontent.com/u/7644688?s=200&v=4/)
 
 > "Indicators don’t make money — the concept behind the indicator does."
 
