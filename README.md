@@ -99,7 +99,7 @@ The strategy works best when used in trending markets (especially after a breako
 
 ## 📬 Contact
 
-- 🔗 [TradingView Profile](https://in.tradingview.com/85599/)
+- 🔗 [TradingView Profile](https://in.tradingview.com/khushaljain023/)
 - 📩 Email: KhushalJain023@gmail.com
 - 📸 Instagram: [@callmejainsahab_](https://instagram.com/callmejainsahab_)
 
