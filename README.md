@@ -1,7 +1,7 @@
 # Confluence-Based Indicator by Khushal Jain
 
 <p align="center">
-  <img src="original-c93f0d6dab3179cf6ee225220fe3a592.gif" alt="Trading GIF" width="100"/>
+  <img src="original-c93f0d6dab3179cf6ee225220fe3a592.gif" alt="Trading GIF" width="230"/>
 </p>
 
 A premium TradingView indicator built for serious traders. This all-in-one tool merges multiple high-probability confluence strategies into one visual script.
